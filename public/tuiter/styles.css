@@ -1,0 +1,33 @@
+body{
+    /*font-family: "Arial";*/
+    background-color: black;
+    color: white;
+}
+
+.wd-left-offset {
+    margin-left: 16px;
+}
+
+.wd-top-offset {
+    margin-top: 12px;
+}
+
+
+.wd-border {
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+
+.wd-float-content-right {
+    float: right;
+}
+
+.wd-float-done{
+    clear: both;
+}
+
+

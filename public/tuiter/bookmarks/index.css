@@ -1,0 +1,123 @@
+.wd-top-edge {
+    margin-top: 12px;
+}
+.wd-bookmarks-title {
+    font-size: 20px;
+    color: white;
+}
+
+.wd-bookmarks-handler {
+    color: lightgray;
+    font-size: 13px;
+}
+
+.wd-gray-border {
+    border-bottom: lightgray solid 1px;
+}
+
+.wd-bookmarks-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%
+}
+
+.wd-bookmark-right-offset {
+    position: relative;
+    float: right;
+    /*right: 12px;*/
+    margin-left: 12px;
+    overflow: hidden;
+}
+
+.wd-bookmark-author-title {
+    font-size: 15px;
+    color: white;
+    margin-left: 12px;
+}
+
+.wd-bookmark-handler-title {
+    font-size: 15px;
+    color: lightgray;
+}
+
+.wd-bookmarks-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    vertical-align: middle;
+    float: left;
+    clear: both;
+}
+
+.wd-bookmark-main-content {
+    color: white;
+    font-size: 15px;
+    margin-left: 12px;
+    max-width: 506px;
+    display: inline-block;
+}
+
+.wd-bookmarks-main-img {
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    vertical-align: middle;
+    border: 1px solid lightgray;
+}
+
+.wd-bookmark-content-title {
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+}
+
+.wd-bookmark-content-text {
+    color: lightgray;
+    font-size: 15px;
+    max-width: 506px;
+}
+
+.wd-bookmark-content-border {
+    border-width: 1px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: lightgray;
+    border-style: solid;
+    padding: 20px;
+}
+
+.wd-bookmark-icons {
+    width: 20px;
+    height: 20px;
+}
+
+.wd-icon-float {
+    position: relative;
+    float: left;
+    width: 25%;
+}
+
+.wd-icon-text {
+    margin-left: 12px;
+    color: lightgray;
+}
+
+.wd-icon-selected {
+    color: red;
+    text-decoration: none;
+}
+
+.wd-post-setting {
+    color: white;
+    font-size: 10px;
+    margin-right: 16px;
+    float: right;
+}
+
+.wd-post-subsetting {
+    color: rgb(110,118,125);
+    font-size: 10px;
+    margin-right: 16px;
+    float: right;
+}
