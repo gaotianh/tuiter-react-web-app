@@ -121,3 +121,20 @@
     margin-right: 16px;
     float: right;
 }
+
+.wd-icon-form {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.wd-icon-float-left {
+    padding-left: 12px;
+    color: lightgray;
+    text-decoration: none;
+}
+
+.wd-selected-icon-float-left {
+    padding-left: 12px;
+    color: red;
+    text-decoration: none;
+}
