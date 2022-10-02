@@ -87,20 +87,10 @@
     padding: 20px;
 }
 
-.wd-bookmark-icons {
-    width: 20px;
-    height: 20px;
-}
-
 .wd-icon-float {
     position: relative;
     float: left;
     width: 25%;
-}
-
-.wd-icon-text {
-    margin-left: 12px;
-    color: lightgray;
 }
 
 .wd-icon-selected {
