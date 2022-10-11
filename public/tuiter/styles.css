@@ -14,6 +14,10 @@ body{
     padding-bottom: 12px;
 }
 
+.wd-rounded-buttons{
+    border-radius: 20px;
+}
+
 .wd-left-offset {
     margin-left: 16px;
 }
