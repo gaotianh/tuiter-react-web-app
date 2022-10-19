@@ -1,6 +1,6 @@
 // import {Link}
 //     from "react-router-dom";
-import Nav from "../nav";
+// import Nav from "../nav";
 import React from "react";
 import ExploreComponent from "./explore";
 import NavigationSidebar from "./navigation-sidebar";
