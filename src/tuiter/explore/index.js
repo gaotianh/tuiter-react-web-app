@@ -21,7 +21,7 @@ const ExploreComponent = () => {
 
             <ul className="nav nav-pills mb-2 nav-tabs">
                 <li className="nav-item">
-                    <a className="nav-link active" href="#">For You</a>
+                    <a className="nav-link active" href="foryou.html">For You</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="trending.html">Trending</a>
