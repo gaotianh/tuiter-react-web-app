@@ -12,7 +12,7 @@ const TuitItem = ({tuit}) => {
     return(
         <li className="list-group-item">
             <div className="row">
-                <div className="col-2">
+                <div className="col-auto">
                     <img width={50} className="float-end rounded-circle" src={`../${tuit.image}`} alt={""}/>
                 </div>
                 <div className="col-10">
